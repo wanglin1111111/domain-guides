@@ -1,4 +1,4 @@
----
+﻿---
 name: domain-guides
 version: 1.0.0
 author: wanglin1111111
@@ -13,7 +13,7 @@ description: |
 ## Skill: aquaculture-shrimp-guide
 
 ---
-name: aquaculture-shrimp-guide
+name: domain-guides
 description: |
   鹅厂养虾指南，基于鹅厂养虾知识库（157条内容，26829名成员）提供养虾日记、技能安装、经验分享等指导。
 ---
